@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png",Pluto TV Filmes Ação iptvlister.com
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="PLUTO",BR FILMES SUSPENSE iptvlister.com
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:iptvlister.com
+#EXTINF:-1 tvg-country="BR" tvg-logo="https:///7rjCS5i.png" group-title="Undefined",Amazon Sat (1080p) iptvlister.com
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8#checkedby:iptvlister.com
+#EXTINF:-1,BR HBO Family iptvlister.com
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8839#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="PLUTO",BR PLUTO TV ANIME iptvlister.com
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:iptvlister.com
+#EXTINF:-1,BR ESPN 3 iptvlister.com
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290657#checkedby:iptvlister.com
+#EXTINF:-1 group-title="BR HBO",BR056 HBO Signature HD Backup NO_2 iptvlister.com
+http://yesimes.oknirvana.club:8880/D12m2555/52433416/2476#checkedby:iptvlister.com
+#EXTINF:-1 group-title="BR Infantis",BR148 Disney Channel SD iptvlister.com
+http://yesimes.oknirvana.club:8880/D12m2555/52433416/65703#checkedby:iptvlister.com
+#EXTINF:-1 group-title="BR Musicas",BR065 MTV HD Backup NO_4 iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/2467#checkedby:iptvlister.com
+#EXTINF:-1,FR Amazon Prime 6 iptvlister.com
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298723#checkedby:iptvlister.com
+#EXTINF:-1,BR ESPN 2 iptvlister.com
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8801#checkedby:iptvlister.com
+#EXTINF:-1 group-title="BR Telecine",BR252 Telecine Pipoca SD Backup NO_2 iptvlister.com
+http://yesimes.oknirvana.club:8880/D12m2555/52433416/65807#checkedby:iptvlister.com
+#EXTINF:-1,BR ESPN 4 iptvlister.com
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/299345#checkedby:iptvlister.com
+#EXTINF:-1 group-title="BR Premiere",BR220 Premiere 2 FHD Backup NO_1 iptvlister.com
+http://abcnew.site:8880/D12m2668/24493676/65775#checkedby:iptvlister.com
+#EXTINF:-1 group-title="BR HBO",BR189 Hbo FHD Backup NO_2 iptvlister.com
+http://yesimes.oknirvana.club:8880/D12m2555/52433416/65744#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="PLUTO",BR PLUTO TV FILMES NACIONAIS iptvlister.com
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:iptvlister.com
+#EXTINF:-1 group-title="BR HBO",BR186 Hbo 2 FHD Backup NO_2 iptvlister.com
+http://yesimes.oknirvana.club:8880/D12m2555/52433416/65741#checkedby:iptvlister.com
+#EXTINF:-1,BR ESPN iptvlister.com
+http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/164948#checkedby:iptvlister.com
+#EXTINF:-1 group-title="France ➾ Football",Amazon Prime 1 iptvlister.com
+http://premiumiptvmk.com:8080/F19236/516c41c7/298718#checkedby:iptvlister.com
+#EXTINF:-1 group-title="PT Kids",PT023 Disney Junior iptvlister.com
+http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/3227#checkedby:iptvlister.com
+#EXTINF:-1 group-title="France ➾ Football",Amazon Prime 4 iptvlister.com
+http://premiumiptvmk.com:8080/F19236/516c41c7/298721#checkedby:iptvlister.com
+#EXTINF:-1 group-title="BR Telecine",BR250 Telecine Fun SD Backup NO_4 iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/65805#checkedby:iptvlister.com
+#EXTINF:-1 group-title="FR Cinema",FR105 DISNEY CINEMA iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/28202#checkedby:iptvlister.com
+#EXTINF:-1 group-title="BR Esportes",BR033 ESPN HD Backup NO_4 iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/2499#checkedby:iptvlister.com
+#EXTINF:-1 group-title="BR Esportes",BR031 ESPN BRASIL HD Backup NO_1 iptvlister.com
+http://abcnew.site:8880/D12m2668/24493676/2501#checkedby:iptvlister.com
+#EXTINF:-1 group-title="BR Filmes e Series",BR218 Paramount Channel FHD Backup NO_3 iptvlister.com
+http://abcnew.site:8880/D12m2185/99818221/65773#checkedby:iptvlister.com
+#EXTINF:-1 group-title="France ➾ Football",Amazon Prime 7 iptvlister.com
+http://premiumiptvmk.com:8080/F19236/516c41c7/298724#checkedby:iptvlister.com
+#EXTINF:-1 group-title="BR Filmes e Series",BR100 TNT HD iptvlister.com
+http://abcnew.site:8880/D12m2668/24493676/2432#checkedby:iptvlister.com
+#EXTINF:-1 group-title="BR Telecine",BR253 Telecine Premium FHD Backup NO_4 iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/65808#checkedby:iptvlister.com
+#EXTINF:-1,BR Anime TV iptvlister.com
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/286067#checkedby:iptvlister.com
+#EXTINF:-1 group-title="BR Premiere",BR224 Premiere 4 SD Backup NO_2 iptvlister.com
+http://yesimes.oknirvana.club:8880/D12m2555/52433416/65779#checkedby:iptvlister.com
+#EXTINF:-1 group-title="Arab Netflix",ARNF014 Netflix Crime 2 Backup NO_1 iptvlister.com
+http://yesimes.oknirvana.club:8880/D12m2555/52433416/60459#checkedby:iptvlister.com
+#EXTINF:-1 group-title="France ➾ Football",Amazon Prime 5 iptvlister.com
+http://premiumiptvmk.com:8080/F19236/516c41c7/298722#checkedby:iptvlister.com
+#EXTINF:-1 group-title="Arab Netflix",ARNF009 Netflix Drama 1 Backup NO_2 iptvlister.com
+http://yesimes.oknirvana.club:8880/D12m2555/52433416/60410#checkedby:iptvlister.com
+#EXTINF:-1 group-title="BR Premiere",BR227 Premiere Clubes FHD Backup NO_4 iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/65782#checkedby:iptvlister.com
+#EXTINF:-1 group-title="PT Sports",PT114 Cancao Nova iptvlister.com
+http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/29376#checkedby:iptvlister.com
+#EXTINF:-1 group-title="BR Abertos",BR085 SBT HD iptvlister.com
+http://yesimes.oknirvana.club:8880/D12m2555/52433416/2447#checkedby:iptvlister.com
+#EXTINF:-1 group-title="France ➾ Football",Amazon Prime 2 iptvlister.com
+http://premiumiptvmk.com:8080/F19236/516c41c7/298719#checkedby:iptvlister.com
+#EXTINF:-1 group-title="France ➾ Football",Amazon Prime 3 iptvlister.com
+http://premiumiptvmk.com:8080/F19236/516c41c7/298720#checkedby:iptvlister.com
+#EXTINF:-1 group-title="BR Infantis",BR026 Disney HD Backup NO_1 iptvlister.com
+http://abcnew.site:8880/D12m2668/24493676/2506#checkedby:iptvlister.com
+#EXTINF:-1,BR HBO HD iptvlister.com
+http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/164950#checkedby:iptvlister.com
+#EXTINF:-1 group-title="BR Premiere",BR226 Premiere 5 SD Backup NO_4 iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/65781#checkedby:iptvlister.com
+#EXTINF:-1 group-title="BR HBO",BR197 Hbo Xtreme SD Backup NO_4 iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/65752#checkedby:iptvlister.com
+#EXTINF:-1 group-title="UK UNITED KINGDOM",US MTV Classic A Backup NO_4 iptvlister.com
+http://fortv.cc:8080/jamie@bernard/902@379/53734#checkedby:iptvlister.com
+#EXTINF:-1 group-title="BR Telecine",BR098 Telecine Touch HD Backup NO_2 iptvlister.com
+http://yesimes.oknirvana.club:8880/D12m2555/52433416/2434#checkedby:iptvlister.com
+#EXTINF:-1 group-title="BR Filmes e Series",BR259 TNT Series FHD Backup NO_3 iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/65814#checkedby:iptvlister.com
+#EXTINF:-1,BR ESPN Extra iptvlister.com
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8789#checkedby:iptvlister.com
+#EXTINF:-1,CA Disney XD R iptvlister.com
+http://cord-cutter.net:8080/X5xRz0/944877/57420#checkedby:iptvlister.com
+#EXTINF:-1 group-title="Arab Netflix",ARNF011 Netflix Comedy 1 Backup NO_2 iptvlister.com
+http://yesimes.oknirvana.club:8880/D12m2555/52433416/60286#checkedby:iptvlister.com
+#EXTINF:-1 group-title="BR Telecine",BR094 Telecine Cult HD Backup NO_4 iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/2438#checkedby:iptvlister.com
+#EXTINF:-1 group-title="BR Premiere",BR222 Premiere 3 SD Backup NO_4 iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/65777#checkedby:iptvlister.com
