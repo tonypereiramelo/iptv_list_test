@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1, BR222 Premiere 3 SD
-http://abcnew.site:8880/D12m2692/94245219/65777
-#EXTINF:-1, BR224 Premiere 4 SD Backup NO_2
-http://yesimes.oknirvana.club:8880/D12m2555/52433416/65779
-#EXTINF:-1, BR076 Premiere 3 HD Backup NO_2
-http://yesimes.oknirvana.club:8880/D12m2555/52433416/2456
-#EXTINF:-1, BR220 Premiere 2 FHD Backup NO_2
-http://yesimes.oknirvana.club:8880/D12m2555/52433416/65775
-#EXTINF:-1, BR221 Premiere 2 SD Backup NO_2
-http://yesimes.oknirvana.club:8880/D12m2555/52433416/65776
+#EXTINF:-1 group-title="BR Premiere",BR227 Premiere Clubes FHD Backup NO_4 iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/65782#checkedby:iptvlister.com
